@@ -8,10 +8,12 @@
     "email": "info@optimalisatie.nl",
     "url": "https://optimalisatie.nl"
   },
-  "contributors": [{
-    "name": "Michael",
-    "url": "https://github.com/michael-k"
-  }],
+  "contributors": [
+    {
+      "name": "Michael",
+      "url": "https://github.com/michael-k"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/optimalisatie/grunt-goog-webfont-dl.git"
@@ -33,7 +35,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "goog-webfont-dl": "0.1.1",
+    "goog-webfont-dl": "1.0.4",
     "lodash": "^3.6.0"
   },
   "devDependencies": {
